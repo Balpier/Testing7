@@ -17,3 +17,4 @@ print(son_anagramas("7654", "5746"))  # con numeros
 print(son_anagramas(".@!!?", "?.!@!")) # con simbolos o signos
 print(son_anagramas("papá", "apap"))  #con acento
 print(son_anagramas("", ""))  # cadenas vacias
+print(son_anagramas("", "hola"))  # con texto y vacia
