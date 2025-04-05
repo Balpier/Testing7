@@ -15,3 +15,7 @@ def palindromo_o_capicua(dato):
 print(palindromo_o_capicua(121))  # True
 print(palindromo_o_capicua("Anita lava la tina"))  # True
 print(palindromo_o_capicua("Hola"))  # False
+print(palindromo_o_capicua("Anita lava la tina"))
+print(palindromo_o_capicua("Oso"))
+print(palindromo_o_capicua("5478"))
+
