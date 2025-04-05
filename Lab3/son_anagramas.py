@@ -13,4 +13,5 @@ print(son_anagramas("Hola", "Mundo"))  #distintas palabras
 print(son_anagramas("roma", "amor"))  #con minuscula 
 print(son_anagramas("La casa es blanca", "blanca la casa es"))  #con espacios
 print(son_anagramas("roma", "romano"))  # diferentes longitudes
+print(son_anagramas("7654", "5746"))  # con numeros
 
